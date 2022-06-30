@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sainath13
 - 👀 I’m interested in distributed systems
-- 🌱 I’m currently pursuing Master's in Computer Science at Arizona State University
-- 💞️ I’m looking to collaborate on distributed systems and blockchain
+- 💞️ I’m looking to collaborate on distributed systems
 - 📫 How to reach me : I am here. If you can reach me, you may reach me.
 
 <!---
